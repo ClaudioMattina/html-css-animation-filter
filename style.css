@@ -81,3 +81,22 @@
     transition: background 2s ease-in-out 1s;
 }
 
+/* esercizio due */
+.ex-2-square:active{
+    width: 800px;
+}
+
+.ex-2-square{
+    transition: 10s ;
+}
+
+/* esercizio tre */
+.ex-3-square:hover{
+    border-radius: 50%;
+}
+
+.ex-3-square{
+    transition: 2s;
+}
+
+/* esercizio quattro */
